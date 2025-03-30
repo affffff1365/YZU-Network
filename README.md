@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 **极速入门（小白推荐）**  
-1. 前往 [Release页面](https://github.com/YZU-Network/releases) 下载最新压缩包  
+1. 前往 [Release页面](https://github.com/affffff1365/YZU-Network/releases) 下载最新压缩包  
 2. 解压后双击运行 `先点我！！！！！.bat`  
 3. 根据弹窗提示输入：  
    - 学号（如 `24200xxxx`）  
