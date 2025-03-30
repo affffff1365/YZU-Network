@@ -1,8 +1,7 @@
 # YZU-Network  
 **扬州大学校园网自动连接工具**  
 *Network of YZU Automatic Connection*  
-目前2025.3.30可用，之前其他大佬脚本的都因为校园网更新了，用不了，迫不得已，搞了一下
-readme基本是AI写的，不会markdown，，菜鸡一个
+目前2025.3.30可用，之前其他大佬脚本的都因为校园网更新了，用不了，迫不得已搞了一下。readme基本是AI写的，不会markdown，菜鸡一个
 
 ---
 
